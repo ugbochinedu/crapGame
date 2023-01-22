@@ -5,5 +5,4 @@ public class DiceGameMain {
         DiceGame diceGame = new DiceGame();
         diceGame.checkWager();
     }
-
 }
